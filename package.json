@@ -1,0 +1,26 @@
+{
+  "name": "express-swag-rpc",
+  "version": "0.0.1",
+  "description": "Delegates operations to local-rpc",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "local-rpc": "0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "repository": "mvaldesdeleon/express-swag-rpc",
+  "keywords": [
+    "express",
+    "middleware",
+    "swagger",
+    "rpc",
+    "local-rpc",
+    "express-swag"
+  ],
+  "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
+  "license": "MIT"
+}
